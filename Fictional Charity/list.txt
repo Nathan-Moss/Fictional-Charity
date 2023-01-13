@@ -1,0 +1,20 @@
+
+.test {
+    background-image: url("https://thispersondoesnotexist.com/image");
+    width: 250px;
+    height: 250px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
+.test_69 {
+    background-image: url("http://google.com/minecraft");
+    background-image: url("http://youtube.com");
+}
+
+.test_2 {
+    background-image: url("https://thispersondoesnotexist.com/image");
+    width: 250px;
+    height: 250px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
